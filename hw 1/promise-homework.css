@@ -1,0 +1,39 @@
+.button{
+    font-weight: 700px;
+    color: white;
+    text-decoration: none;
+    padding: .80em 10em calc(.8em + 3px);
+    border-radius: 10px;
+    background: rgb(64,199,129);
+    box-shadow: 0 -3px rgb(53,167,110) inset;
+    transition: 0.2s;
+    display: inline-block;
+}
+
+
+.all{
+    margin-top:300px;
+    text-align:center;
+}
+
+.text{
+    color:black;
+    font-size: 20px;
+}
+
+.button-delete{
+    font-weight: 700px;
+    color: white;
+    text-decoration: none;
+    padding: .80em 10em calc(.8em + 3px);
+    border-radius: 10px;
+    background: rgb(64,199,129);
+    box-shadow: 0 -3px rgb(53,167,110) inset;
+    transition: 0.2s;
+    display: inline-block;
+}
+
+
+
+
+
